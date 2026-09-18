@@ -1,5 +1,9 @@
 # Outreach — See Then Line
 
-Pages gate: no T1 until https://usabandit33.github.io/see-then-line/ returns HTTP 200.
+Pages HTTP 200 as of 2026-09-18 evening.
 
-T1 not started 2026-09-18. Ask operator to enable Pages (main / root).
+| Company | Phone | Touch | Date | Notes |
+|---------|-------|-------|------|-------|
+| Chicago Plumbing Experts | 708-775-2566 | T1 | 2026-09-18 | chicagoplumbingexpert@gmail.com |
+
+T2 for CPE ~2026-09-21/22. Hunt +4 published inboxes before more T1.
